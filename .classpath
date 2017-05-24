@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/joml-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl.jar" sourcepath="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-glfw.jar" sourcepath="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-glfw-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-glfw-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-openal.jar" sourcepath="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-openal-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-openal-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-openal-natives-windows.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-opengl.jar" sourcepath="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-opencl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-opengl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/lwjgl-stb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/steamworks4j-1.6.1.jar" sourcepath="D:/Programmieren/Java/libs/lwjgl3_1_1/steamworks4j-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Programmieren/Java/libs/lwjgl3_1_1/steamworks4j-1.6.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Programmieren/Java/libs/lwjgl3_1_1/slick-util.jar" sourcepath="D:/Programmieren/Java/libs/lwjgl3_1_1/slick-util-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
